@@ -6,7 +6,7 @@ Mass Looker ,it’s a console-based script created for massvoting (mass poll vot
 
 # Features
  Author credits : nthanfp
- Modified by @zns Follow on Instagram www.instagram.com/zns/ and
+ Modified by @esterahat1 Follow on Instagram www.instagram.com/esterahat1/ and
  Subscribe Youtube Channel for more videos https://www.youtube.com/channel/UCS9cnL2cj_9jDEi3Cc1mnAA
 
   - Views Stories
